@@ -1,5 +1,5 @@
 # GRSC
-This is the source code for Graph Regularized Spatial-spectral Subspace Clustering for Hyperspectral Band Selection.
+This is the source code for Graph Regularized Spatial-spectral Subspace Clustering for Hyperspectral Band Selection, Neural Networks 2022.
 
 More datasets can be downloaded from <a href=https://pan.baidu.com/s/1EwQyf33UeWZQgwDjQpjhzQ>百度网盘</a>
 提取码：5sy0
